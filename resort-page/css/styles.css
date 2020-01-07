@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  font-family: garamond;
+  font-size: 43px;
+  color: rgb(9, 9, 87);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  text-align: center;
+  font-family: garamond;
+  font-size: 37px;
+  color: rgb(9, 9, 87);
+} 
+h4  {
+  text-align: center;
+  font-family: garamond;
+  font-size: 32px;
+  color: rgb(9, 9, 87);
+
+}
+body  {
+  background-color: #fffef2;
+}
+
+ul{
+  margin-left: 25%;
+  color: rgb(49, 49, 158);
+}
