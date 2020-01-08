@@ -23,6 +23,11 @@ h4  {
   color: rgb(9, 9, 87);
 
 }
+h5 {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(9, 9, 87);
+}
 body  {
   background-color: #fffef2;
 }
